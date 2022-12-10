@@ -1,4 +1,4 @@
-                                              Biolan-biokompostorit-IoT-sensorit-visualisointi
+**Biolan-biokompostorit-IoT-sensorit-visualisointi**
 
 Tämä Power BI raportti visualisoi IoT-sensorin kautta tulevaa dataa liittyen Biolan Oy:n  "Äly-kompostoriin" sekä suomalaisten jätehuoltoyhtiöiden toimintalueita. Raportissa on visualisoitu kolmen biokompostorin dataa tietyltä ajanjaksolta.
 Biokompostorin data haetaan Power BI:hin rajapinnan kautta. Jätehuoltoyhtiöiden data on julkista (https://www.avoindata.fi/data/fi/dataset/alueelliset-jatehuollot). 
